@@ -1,4 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/Users/toby/.rvm/gems/ruby-1.9.3-p484@12wbt-ruby1.9.3/gems/redmon-0.0.8/lib/redmon'
-let g:netrw_dirhist_2='/Users/toby/src/12wbt_api'
